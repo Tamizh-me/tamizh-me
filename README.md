@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [interviw](https://interviw.com)
 
-- 🌱 I’m currently learning **MERN, Next 14 adn LLM Ops**
+- 🌱 I’m currently learning **MERN and LLM Ops**
 
 
 <h3 align="left">Languages and Tools:</h3>
