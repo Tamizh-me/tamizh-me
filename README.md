@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamizh</h1>
 <h3 align="center">Building things from scratch.</h3>
 
-- 🔭 I’m currently working on [interviw](interviw.com)
+- 🔭 I’m currently working on [interviw](https://interviw.com)
 
 - 🌱 I’m currently learning **MERN, Next 14 adn LLM Ops**
 
