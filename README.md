@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **MERN and LLM Ops**
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 
