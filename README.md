@@ -2,7 +2,6 @@
 <h3 align="center">Building things from scratch.</h3>
 
 - 🔭 I’m currently working on [interviw](https://interviw.com)
-
 - 🌱 I’m learning **MERN stack and LLM Ops**
 
 <h3 align="left">Languages and Tools:</h3>
